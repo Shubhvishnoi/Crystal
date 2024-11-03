@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Vishnoi"
+  given-names: "Shubham"
+  orcid: "https://orcid.org/0000-0002-8213-5931"
+title: "CrystalDFT Database"
+version: 1.0.0
+doi: https://coms.events/DFT2024/data/abstracts/en/abstract_0090_0136_0219.html
+date-released: 2024-11-11
+url: "https://github.com/Shubhvishnoi/Crystal"
